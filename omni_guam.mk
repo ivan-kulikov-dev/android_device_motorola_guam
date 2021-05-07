@@ -33,6 +33,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := guam
 PRODUCT_NAME := omni_guam
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := motorola
-PRODUCT_MANUFACTURER := motorola
+PRODUCT_MODEL := Motorola E7 Plus
+PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := motorola motorola
