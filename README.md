@@ -1,4 +1,4 @@
-# TWRP Device configuration for Motorola Moto E7 Plus
+# TWRP Device configuration for Motorola Moto E7 Plus or XT2081-2
 
 ## Device specification
 
