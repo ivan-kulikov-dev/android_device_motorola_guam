@@ -4,8 +4,8 @@
 
 Basic   | Spec Sheet
 -------:|:------------------------
-CPU     | Octa-core (4x1.8 GHz Kryo 240 Gold & 4x1.8 GHz Kryo 240 Silver) 
-CHIPSET | Qualcomm Snapdragon 460
+CPU     | Octa-core (4x1.8 GHz Kryo 240 Gold & 4x1.8 GHz Kryo 240 Silver)
+CHIPSET | Qualcomm Snapdragon 460 or SM4250-AA (460)
 GPU     | Qualcomm Adreno 610
 Memory  | 4GB
 Shipped Android Version | 10.0
